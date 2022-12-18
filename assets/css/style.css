@@ -68,6 +68,7 @@ a:hover {
   max-height: 0;
   transition: max-height 0.5s;
   box-shadow: 0 10px 30px #a7a7a7;
+  padding: 0;
 }
 
 #menubar ul hr {
@@ -1297,37 +1298,64 @@ nav .list li:hover {
 
   }
   #footer .right_content h1{
-font-size: 35px;
-font-weight: 700;
-}
+
+font-size: 35px;
+
+font-weight: 700;
+
+}
   #footer .right_content .input{
-margin-top: 30px;
-position: relative;
-background: #fff;
-border-radius: 7px;
-overflow: hidden;
-}
+
+margin-top: 30px;
+
+position: relative;
+
+background: #fff;
+
+border-radius: 7px;
+
+overflow: hidden;
+
+}
   #footer .right_content .input .box{
-background: #ff5219;
-display: inline-block;
-right: 0;
-position: absolute;
-height: 50px;
-width: 59px;
-text-align: center;
-}
+
+background: #ff5219;
+
+display: inline-block;
+
+right: 0;
+
+position: absolute;
+
+height: 50px;
+
+width: 59px;
+
+text-align: center;
+
+}
   #footer .right_content .input .box ion-icon{
-font-size: 30px;
-margin-top: 50%;
-transform: translateY(-70%);
-}
+
+font-size: 30px;
+
+margin-top: 50%;
+
+transform: translateY(-70%);
+
+}
   #footer .right_content .input input{
-background: transparent;
-border: none;
-height: 50px;
-padding-left: 25px;
-width: 85%;
-}
+
+background: transparent;
+
+border: none;
+
+height: 50px;
+
+padding-left: 25px;
+
+width: 85%;
+
+}
 
 
 
